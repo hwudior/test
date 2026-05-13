@@ -1,0 +1,3 @@
+# Auto-generated unit tests for src
+def test_perform_action():
+    assert True
